@@ -11,7 +11,6 @@
 * [`ft_isupper`](libft/ft_isupper.c) *	- upper-case character test.
 * [`ft_isdigit`](libft/ft_isdigit.c)			- decimal-digit character test.
 * [`ft_isprint`](libft/ft_isprint.c)			- printing character test (space character inclusive).
-* [`ft_isspace`](libft/ft_isspace.c) *	- white-space character test.
 * [`ft_tolower`](libft/ft_tolower.c)			- upper case to lower case letter conversion.
 * [`ft_toupper`](libft/ft_toupper.c)			- lower case to upper case letter c
 
@@ -38,21 +37,15 @@
 * [`ft_strrchr`](libft/ft_strrchr.c)			- locate character in string (last occurence).
 * [`ft_strcmp`](libft/ft_strcmp.c) *		- compare strings.
 * [`ft_strncmp`](libft/ft_strncmp.c) *			- compare strings (size-bounded).
-* [`ft_strcpy`](libft/ft_strcpy.c) *		- copy strings.
 * [`ft_strdup`](libft/ft_strdup.c)				- save a copy of a string (with malloc).
-* [`ft_strcat`](libft/ft_strcat.c) *		- concatenate strings (s2 into s1).
-* [`ft_strncat`](libft/ft_strncat.c) *	- concatenate strings (s2 into s1, size-bounded).
 * [`ft_strlcpy`](libft/ft_strlcpy.c)			- size-bounded string copying.
 * [`ft_strlcat`](libft/ft_strlcat.c)			- size-bounded string concatenation.
 
 ### Non-standard functions
 
-* [`ft_putchar`](libft/ft_putchar.c) *	- output a character to stdout.
-* [`ft_putchar_fd`](libft/ft_putchar_fd.c)		- output a character to given file.
-* [`ft_putstr`](libft/ft_putstr.c) *		- output string to stdout.
+* [`ft_putchar_fd`](libft/ft_putchar_fd.c)		- output a character to given file
 * [`ft_putstr_fd`](libft/ft_putstr_fd.c)		- output string to given file.
 * [`ft_putendl_fd`](libft/ft_putendl_fd.c)		- output string to given file with newline.
-* [`ft_putnbr`](libft/ft_putnbr.c) *		- output integer to stdout.
 * [`ft_putnbr_fd`](libft/ft_putnbr_fd.c)		- output integer to given file.
 * [`ft_itoa`](libft/ft_itoa.c)					- convert integer to ASCII string.
 * [`ft_substr`](libft/ft_substr.c)				- extract substring from string.
