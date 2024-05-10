@@ -18,7 +18,6 @@
 ### Functions from `<stdlib.h>` library
 
 * [`ft_atoi`](libft/ft_atoi.c)		- convert ASCII string to integer.
-* [`ft_atof`](libft/ft_atof.c) *		- convert ASCII string to integer.
 * [`ft_calloc`](libft/ft_calloc.c)	- memory allocation.
 
 ### Functions from `<strings.h>` library
@@ -48,7 +47,6 @@
 
 ### Non-standard functions
 
-* [`ft_swap`](libft/ft_swap.c) *			- swap value of two integers.
 * [`ft_putchar`](libft/ft_putchar.c) *	- output a character to stdout.
 * [`ft_putchar_fd`](libft/ft_putchar_fd.c)		- output a character to given file.
 * [`ft_putstr`](libft/ft_putstr.c) *		- output string to stdout.
